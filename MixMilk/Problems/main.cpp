@@ -1,17 +1,3 @@
-//
-//  main.cpp
-//  Problems
-//
-//  Created by Edward Hu on 2024-02-04.
-//
-
-//
-//  18BrDecP1.cpp
-//  USACO-Bronze-preparation
-//
-//  Created by Edward Hu on 2024-02-04.
-//
-
 #include <algorithm>
 #include <cstdio>
 #include <iostream>
