@@ -1,2 +1,1 @@
-A answer key for classic Bronze USACO questions. The answer keys for higher levels is in progress 😊.
-
+An answer key for classic Bronze USACO questions. You can also find the answer key for Silver questions in my other repo. The answer keys for higher levels are in progress 😊.
